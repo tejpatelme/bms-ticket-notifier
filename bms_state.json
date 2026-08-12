@@ -5,8 +5,8 @@
       "time": "04:45 PM",
       "date": "20260812",
       "cat": "RECLINER",
-      "price": "1080.00",
-      "status": "3"
+      "price": "1180.00",
+      "status": "2"
     },
     "IMOB|19896|20260812|PICTURE PERFECT": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
@@ -86,7 +86,7 @@
       "date": "20260812",
       "cat": "PICTURE PERFECT",
       "price": "590.00",
-      "status": "2"
+      "status": "1"
     },
     "FMMA|231165|20260812|PRIME PLUS ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
@@ -176,20 +176,20 @@
       "price": "550.00",
       "status": "3"
     },
+    "EMNC|5513|20260812|EXTRA LEGROOM ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "04:45 PM",
+      "date": "20260812",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "620.00",
+      "status": "3"
+    },
     "EMNC|5513|20260812|PICTURE PERFECT": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "04:45 PM",
       "date": "20260812",
       "cat": "PICTURE PERFECT",
       "price": "549.00",
-      "status": "3"
-    },
-    "EMNC|5513|20260812|EXTRA LEGROOM ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "04:45 PM",
-      "date": "20260812",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "520.00",
       "status": "3"
     },
     "EMNC|5513|20260812|CLASSIC ROWS": {
