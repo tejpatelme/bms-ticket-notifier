@@ -1,5 +1,422 @@
 {
-  "shows": {},
+  "shows": {
+    "FMMA|231507|20260815|PICTURE PERFECT": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "440.00",
+      "status": "3"
+    },
+    "FMMA|231507|20260815|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FMMA|231507|20260815|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FMMA|231507|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "FMMA|231509|20260815|PICTURE PERFECT": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "640.00",
+      "status": "3"
+    },
+    "FMMA|231509|20260815|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "590.00",
+      "status": "3"
+    },
+    "FMMA|231509|20260815|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
+      "price": "570.00",
+      "status": "3"
+    },
+    "FMMA|231509|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
+      "price": "550.00",
+      "status": "3"
+    },
+    "IMJW|33224|20260815|PICTURE PERFECT": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "630.00",
+      "status": "3"
+    },
+    "IMJW|33224|20260815|XTRA LEGROOM": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "XTRA LEGROOM",
+      "price": "530.00",
+      "status": "3"
+    },
+    "IMJW|33224|20260815|PRIME PLUS": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PRIME PLUS",
+      "price": "480.00",
+      "status": "3"
+    },
+    "IMJW|33224|20260815|PRIME": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PRIME",
+      "price": "450.00",
+      "status": "3"
+    },
+    "IMJW|33226|20260815|PICTURE PERFECT": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "860.00",
+      "status": "3"
+    },
+    "IMJW|33226|20260815|XTRA LEGROOM": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "XTRA LEGROOM",
+      "price": "760.00",
+      "status": "3"
+    },
+    "IMJW|33226|20260815|PRIME PLUS": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME PLUS",
+      "price": "710.00",
+      "status": "3"
+    },
+    "IMJW|33226|20260815|PRIME": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME",
+      "price": "680.00",
+      "status": "3"
+    },
+    "EMNC|5528|20260815|PICTURE PERFECT": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "449.00",
+      "status": "3"
+    },
+    "EMNC|5528|20260815|EXTRA LEGROOM ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "420.00",
+      "status": "3"
+    },
+    "EMNC|5528|20260815|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "EMNC|5528|20260815|PRIME ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "EMNC|5528|20260815|PRIME PLUS ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "EMNC|5530|20260815|PICTURE PERFECT": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "650.00",
+      "status": "3"
+    },
+    "EMNC|5530|20260815|EXTRA LEGROOM ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "620.00",
+      "status": "3"
+    },
+    "EMNC|5530|20260815|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "EMNC|5530|20260815|PRIME ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "EMNC|5530|20260815|PRIME PLUS ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "FMMA|231513|20260816|PICTURE PERFECT": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PICTURE PERFECT",
+      "price": "440.00",
+      "status": "3"
+    },
+    "FMMA|231513|20260816|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FMMA|231513|20260816|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FMMA|231513|20260816|CLASSIC ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "CLASSIC ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "FMMA|231515|20260816|PICTURE PERFECT": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PICTURE PERFECT",
+      "price": "640.00",
+      "status": "3"
+    },
+    "FMMA|231515|20260816|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
+      "price": "590.00",
+      "status": "3"
+    },
+    "FMMA|231515|20260816|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
+      "price": "570.00",
+      "status": "3"
+    },
+    "FMMA|231515|20260816|CLASSIC ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "CLASSIC ROWS",
+      "price": "550.00",
+      "status": "3"
+    },
+    "IMJW|33230|20260816|PICTURE PERFECT": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PICTURE PERFECT",
+      "price": "630.00",
+      "status": "3"
+    },
+    "IMJW|33230|20260816|XTRA LEGROOM": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "XTRA LEGROOM",
+      "price": "530.00",
+      "status": "3"
+    },
+    "IMJW|33230|20260816|PRIME PLUS": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS",
+      "price": "480.00",
+      "status": "3"
+    },
+    "IMJW|33230|20260816|PRIME": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME",
+      "price": "450.00",
+      "status": "3"
+    },
+    "IMJW|33232|20260816|PICTURE PERFECT": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PICTURE PERFECT",
+      "price": "860.00",
+      "status": "3"
+    },
+    "IMJW|33232|20260816|XTRA LEGROOM": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "XTRA LEGROOM",
+      "price": "760.00",
+      "status": "3"
+    },
+    "IMJW|33232|20260816|PRIME PLUS": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PRIME PLUS",
+      "price": "710.00",
+      "status": "3"
+    },
+    "IMJW|33232|20260816|PRIME": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PRIME",
+      "price": "680.00",
+      "status": "3"
+    },
+    "EMNC|5534|20260816|PICTURE PERFECT": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PICTURE PERFECT",
+      "price": "449.00",
+      "status": "3"
+    },
+    "EMNC|5534|20260816|EXTRA LEGROOM ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "420.00",
+      "status": "3"
+    },
+    "EMNC|5534|20260816|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "CLASSIC ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "EMNC|5534|20260816|PRIME ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "EMNC|5534|20260816|PRIME PLUS ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "EMNC|5536|20260816|PICTURE PERFECT": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PICTURE PERFECT",
+      "price": "650.00",
+      "status": "3"
+    },
+    "EMNC|5536|20260816|EXTRA LEGROOM ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "620.00",
+      "status": "3"
+    },
+    "EMNC|5536|20260816|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "CLASSIC ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "EMNC|5536|20260816|PRIME ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "EMNC|5536|20260816|PRIME PLUS ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
+      "price": "600.00",
+      "status": "3"
+    }
+  },
   "dates": {
     "20260812": "BOOKABLE",
     "20260813": "AVAILABLE",
