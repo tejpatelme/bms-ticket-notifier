@@ -1,437 +1,5 @@
 {
   "shows": {
-    "IMOB|20195|20260815|RECLINER": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260815",
-      "cat": "RECLINER",
-      "price": "860.00",
-      "status": "3"
-    },
-    "IMOB|20195|20260815|PICTURE PERFECT": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "590.00",
-      "status": "2"
-    },
-    "IMOB|20195|20260815|PRIME PLUS": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260815",
-      "cat": "PRIME PLUS",
-      "price": "390.00",
-      "status": "3"
-    },
-    "IMOB|20195|20260815|LOUNGER": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260815",
-      "cat": "LOUNGER",
-      "price": "390.00",
-      "status": "3"
-    },
-    "IMOB|20195|20260815|PRIME": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260815",
-      "cat": "PRIME",
-      "price": "390.00",
-      "status": "3"
-    },
-    "IMOB|20195|20260815|CLASSIC": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260815",
-      "cat": "CLASSIC",
-      "price": "370.00",
-      "status": "3"
-    },
-    "IMOB|20197|20260815|RECLINER": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "02:30 PM",
-      "date": "20260815",
-      "cat": "RECLINER",
-      "price": "1260.00",
-      "status": "2"
-    },
-    "IMOB|20197|20260815|PICTURE PERFECT": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "02:30 PM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "830.00",
-      "status": "1"
-    },
-    "IMOB|20197|20260815|PRIME PLUS": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "02:30 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS",
-      "price": "630.00",
-      "status": "2"
-    },
-    "IMOB|20197|20260815|LOUNGER": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "02:30 PM",
-      "date": "20260815",
-      "cat": "LOUNGER",
-      "price": "590.00",
-      "status": "3"
-    },
-    "IMOB|20197|20260815|PRIME": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "02:30 PM",
-      "date": "20260815",
-      "cat": "PRIME",
-      "price": "570.00",
-      "status": "3"
-    },
-    "IMOB|20197|20260815|CLASSIC": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "02:30 PM",
-      "date": "20260815",
-      "cat": "CLASSIC",
-      "price": "550.00",
-      "status": "3"
-    },
-    "FMMA|231507|20260815|PICTURE PERFECT": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "520.00",
-      "status": "1"
-    },
-    "FMMA|231507|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "430.00",
-      "status": "3"
-    },
-    "FMMA|231507|20260815|PRIME ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "390.00",
-      "status": "3"
-    },
-    "FMMA|231507|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "370.00",
-      "status": "3"
-    },
-    "FMMA|231509|20260815|PICTURE PERFECT": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "720.00",
-      "status": "1"
-    },
-    "FMMA|231509|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "590.00",
-      "status": "3"
-    },
-    "FMMA|231509|20260815|PRIME ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "570.00",
-      "status": "3"
-    },
-    "FMMA|231509|20260815|CLASSIC ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "550.00",
-      "status": "3"
-    },
-    "INRC|172839|20260815|PICTURE PERFECT": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "11:15 AM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "500.00",
-      "status": "2"
-    },
-    "INRC|172839|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "11:15 AM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "400.00",
-      "status": "3"
-    },
-    "INRC|172839|20260815|PRIME ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "11:15 AM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "330.00",
-      "status": "3"
-    },
-    "INRC|172839|20260815|CLASSIC ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "11:15 AM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "310.00",
-      "status": "3"
-    },
-    "INRC|172841|20260815|PICTURE PERFECT": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "05:00 PM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "700.00",
-      "status": "2"
-    },
-    "INRC|172841|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "05:00 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "570.00",
-      "status": "3"
-    },
-    "INRC|172841|20260815|PRIME ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "05:00 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "550.00",
-      "status": "3"
-    },
-    "INRC|172841|20260815|CLASSIC ROWS": {
-      "venue": "INOX: R-City, Ghatkopar",
-      "time": "05:00 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "530.00",
-      "status": "3"
-    },
-    "MCIW|18437|20260815|LOUNGER": {
-      "venue": "Miraj Cinemas: IMAX, Wadala",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "LOUNGER",
-      "price": "750.00",
-      "status": "3"
-    },
-    "MCIW|18437|20260815|RECLINER IMAX": {
-      "venue": "Miraj Cinemas: IMAX, Wadala",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "RECLINER IMAX",
-      "price": "1500.00",
-      "status": "3"
-    },
-    "MCIW|18437|20260815|EXECUTIVE": {
-      "venue": "Miraj Cinemas: IMAX, Wadala",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "EXECUTIVE",
-      "price": "990.00",
-      "status": "3"
-    },
-    "MCIW|18437|20260815|SOFA": {
-      "venue": "Miraj Cinemas: IMAX, Wadala",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "SOFA",
-      "price": "1400.00",
-      "status": "2"
-    },
-    "MCIW|18439|20260815|LOUNGER": {
-      "venue": "Miraj Cinemas: IMAX, Wadala",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "LOUNGER",
-      "price": "750.00",
-      "status": "3"
-    },
-    "MCIW|18439|20260815|RECLINER IMAX": {
-      "venue": "Miraj Cinemas: IMAX, Wadala",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "RECLINER IMAX",
-      "price": "1500.00",
-      "status": "3"
-    },
-    "MCIW|18439|20260815|EXECUTIVE": {
-      "venue": "Miraj Cinemas: IMAX, Wadala",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "EXECUTIVE",
-      "price": "990.00",
-      "status": "3"
-    },
-    "MCIW|18439|20260815|SOFA": {
-      "venue": "Miraj Cinemas: IMAX, Wadala",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "SOFA",
-      "price": "1400.00",
-      "status": "1"
-    },
-    "IMJW|33224|20260815|PICTURE PERFECT": {
-      "venue": "Maison INOX: Jio World Plaza, BKC",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "680.00",
-      "status": "3"
-    },
-    "IMJW|33224|20260815|XTRA LEGROOM": {
-      "venue": "Maison INOX: Jio World Plaza, BKC",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "XTRA LEGROOM",
-      "price": "530.00",
-      "status": "3"
-    },
-    "IMJW|33224|20260815|PRIME PLUS": {
-      "venue": "Maison INOX: Jio World Plaza, BKC",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PRIME PLUS",
-      "price": "480.00",
-      "status": "3"
-    },
-    "IMJW|33224|20260815|PRIME": {
-      "venue": "Maison INOX: Jio World Plaza, BKC",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PRIME",
-      "price": "450.00",
-      "status": "3"
-    },
-    "IMJW|33226|20260815|PICTURE PERFECT": {
-      "venue": "Maison INOX: Jio World Plaza, BKC",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "900.00",
-      "status": "2"
-    },
-    "IMJW|33226|20260815|XTRA LEGROOM": {
-      "venue": "Maison INOX: Jio World Plaza, BKC",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "XTRA LEGROOM",
-      "price": "760.00",
-      "status": "3"
-    },
-    "IMJW|33226|20260815|PRIME PLUS": {
-      "venue": "Maison INOX: Jio World Plaza, BKC",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS",
-      "price": "710.00",
-      "status": "3"
-    },
-    "IMJW|33226|20260815|PRIME": {
-      "venue": "Maison INOX: Jio World Plaza, BKC",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PRIME",
-      "price": "680.00",
-      "status": "3"
-    },
-    "EMNC|5528|20260815|PICTURE PERFECT": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "550.00",
-      "status": "2"
-    },
-    "EMNC|5528|20260815|EXTRA LEGROOM ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "520.00",
-      "status": "3"
-    },
-    "EMNC|5528|20260815|PRIME PLUS ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "499.00",
-      "status": "3"
-    },
-    "EMNC|5528|20260815|CLASSIC ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "399.00",
-      "status": "3"
-    },
-    "EMNC|5528|20260815|PRIME ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "399.00",
-      "status": "3"
-    },
-    "EMNC|5530|20260815|PICTURE PERFECT": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PICTURE PERFECT",
-      "price": "750.00",
-      "status": "3"
-    },
-    "EMNC|5530|20260815|EXTRA LEGROOM ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "620.00",
-      "status": "3"
-    },
-    "EMNC|5530|20260815|CLASSIC ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
-    "EMNC|5530|20260815|PRIME ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PRIME ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
-    "EMNC|5530|20260815|PRIME PLUS ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
     "IMOB|20201|20260816|RECLINER": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
       "time": "08:45 AM",
@@ -448,6 +16,14 @@
       "price": "550.00",
       "status": "2"
     },
+    "IMOB|20201|20260816|LOUNGER": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "08:45 AM",
+      "date": "20260816",
+      "cat": "LOUNGER",
+      "price": "390.00",
+      "status": "3"
+    },
     "IMOB|20201|20260816|PRIME": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
       "time": "08:45 AM",
@@ -461,14 +37,6 @@
       "time": "08:45 AM",
       "date": "20260816",
       "cat": "PRIME PLUS",
-      "price": "390.00",
-      "status": "3"
-    },
-    "IMOB|20201|20260816|LOUNGER": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260816",
-      "cat": "LOUNGER",
       "price": "390.00",
       "status": "3"
     },
@@ -800,14 +368,6 @@
       "price": "420.00",
       "status": "3"
     },
-    "EMNC|5534|20260816|PRIME PLUS ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME PLUS ROWS",
-      "price": "399.00",
-      "status": "3"
-    },
     "EMNC|5534|20260816|CLASSIC ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "11:30 AM",
@@ -821,6 +381,14 @@
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "PRIME ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "EMNC|5534|20260816|PRIME PLUS ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
       "price": "399.00",
       "status": "3"
     },
