@@ -104,19 +104,19 @@
       "price": "440.00",
       "status": "3"
     },
-    "FMMA|231513|20260816|PRIME PLUS ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME PLUS ROWS",
-      "price": "390.00",
-      "status": "3"
-    },
     "FMMA|231513|20260816|PRIME ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "PRIME ROWS",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FMMA|231513|20260816|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
       "price": "390.00",
       "status": "3"
     },
@@ -165,7 +165,7 @@
       "time": "11:15 AM",
       "date": "20260816",
       "cat": "PICTURE PERFECT",
-      "price": "410.00",
+      "price": "460.00",
       "status": "3"
     },
     "INRC|172845|20260816|PRIME PLUS ROWS": {
@@ -254,7 +254,7 @@
       "date": "20260816",
       "cat": "SOFA",
       "price": "1400.00",
-      "status": "3"
+      "status": "2"
     },
     "MCIW|18456|20260816|LOUNGER": {
       "venue": "Miraj Cinemas: IMAX, Wadala",
@@ -368,14 +368,6 @@
       "price": "420.00",
       "status": "3"
     },
-    "EMNC|5534|20260816|PRIME PLUS ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME PLUS ROWS",
-      "price": "399.00",
-      "status": "3"
-    },
     "EMNC|5534|20260816|CLASSIC ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "11:30 AM",
@@ -389,6 +381,14 @@
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "PRIME ROWS",
+      "price": "399.00",
+      "status": "3"
+    },
+    "EMNC|5534|20260816|PRIME PLUS ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
       "price": "399.00",
       "status": "3"
     },
