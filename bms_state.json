@@ -5,7 +5,7 @@
       "time": "08:45 AM",
       "date": "20260815",
       "cat": "RECLINER",
-      "price": "780.00",
+      "price": "860.00",
       "status": "3"
     },
     "IMOB|20195|20260815|PICTURE PERFECT": {
@@ -15,6 +15,14 @@
       "cat": "PICTURE PERFECT",
       "price": "590.00",
       "status": "2"
+    },
+    "IMOB|20195|20260815|PRIME": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "08:45 AM",
+      "date": "20260815",
+      "cat": "PRIME",
+      "price": "390.00",
+      "status": "3"
     },
     "IMOB|20195|20260815|PRIME PLUS": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
@@ -29,14 +37,6 @@
       "time": "08:45 AM",
       "date": "20260815",
       "cat": "LOUNGER",
-      "price": "390.00",
-      "status": "3"
-    },
-    "IMOB|20195|20260815|PRIME": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260815",
-      "cat": "PRIME",
       "price": "390.00",
       "status": "3"
     },
@@ -408,14 +408,6 @@
       "price": "620.00",
       "status": "3"
     },
-    "EMNC|5530|20260815|CLASSIC ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260815",
-      "cat": "CLASSIC ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
     "EMNC|5530|20260815|PRIME ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "05:15 PM",
@@ -429,6 +421,14 @@
       "time": "05:15 PM",
       "date": "20260815",
       "cat": "PRIME PLUS ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "EMNC|5530|20260815|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
       "price": "600.00",
       "status": "3"
     }
