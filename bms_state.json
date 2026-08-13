@@ -16,14 +16,6 @@
       "price": "510.00",
       "status": "3"
     },
-    "IMOB|20201|20260816|PRIME PLUS": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260816",
-      "cat": "PRIME PLUS",
-      "price": "390.00",
-      "status": "3"
-    },
     "IMOB|20201|20260816|LOUNGER": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
       "time": "08:45 AM",
@@ -37,6 +29,14 @@
       "time": "08:45 AM",
       "date": "20260816",
       "cat": "PRIME",
+      "price": "390.00",
+      "status": "3"
+    },
+    "IMOB|20201|20260816|PRIME PLUS": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "08:45 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS",
       "price": "390.00",
       "status": "3"
     },
@@ -168,19 +168,19 @@
       "price": "440.00",
       "status": "3"
     },
-    "FMMA|231513|20260816|PRIME ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME ROWS",
-      "price": "390.00",
-      "status": "3"
-    },
     "FMMA|231513|20260816|PRIME PLUS ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "PRIME PLUS ROWS",
+      "price": "390.00",
+      "status": "3"
+    },
+    "FMMA|231513|20260816|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
       "price": "390.00",
       "status": "3"
     },
@@ -229,7 +229,7 @@
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "LOUNGER",
-      "price": "650.00",
+      "price": "750.00",
       "status": "3"
     },
     "MCIW|18454|20260816|RECLINER IMAX": {
@@ -237,7 +237,7 @@
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "RECLINER IMAX",
-      "price": "1100.00",
+      "price": "1500.00",
       "status": "3"
     },
     "MCIW|18454|20260816|EXECUTIVE": {
@@ -245,7 +245,7 @@
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "EXECUTIVE",
-      "price": "660.00",
+      "price": "990.00",
       "status": "3"
     },
     "MCIW|18454|20260816|SOFA": {
@@ -253,7 +253,7 @@
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "SOFA",
-      "price": "900.00",
+      "price": "1400.00",
       "status": "3"
     },
     "MCIW|18456|20260816|LOUNGER": {
@@ -261,7 +261,7 @@
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "LOUNGER",
-      "price": "700.00",
+      "price": "750.00",
       "status": "3"
     },
     "MCIW|18456|20260816|RECLINER IMAX": {
@@ -269,7 +269,7 @@
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "RECLINER IMAX",
-      "price": "1200.00",
+      "price": "1500.00",
       "status": "3"
     },
     "MCIW|18456|20260816|EXECUTIVE": {
@@ -277,7 +277,7 @@
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "EXECUTIVE",
-      "price": "750.00",
+      "price": "990.00",
       "status": "3"
     },
     "MCIW|18456|20260816|SOFA": {
@@ -285,7 +285,7 @@
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "SOFA",
-      "price": "950.00",
+      "price": "1400.00",
       "status": "3"
     },
     "IMJW|33230|20260816|PICTURE PERFECT": {
