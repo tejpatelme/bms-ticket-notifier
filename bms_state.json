@@ -141,7 +141,7 @@
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "PRIME PLUS ROWS",
-      "price": "630.00",
+      "price": "670.00",
       "status": "2"
     },
     "FMMA|231515|20260816|PRIME ROWS": {
@@ -205,7 +205,7 @@
       "time": "05:00 PM",
       "date": "20260816",
       "cat": "PRIME PLUS ROWS",
-      "price": "650.00",
+      "price": "730.00",
       "status": "2"
     },
     "INRC|172847|20260816|PRIME ROWS": {
@@ -310,7 +310,7 @@
       "date": "20260816",
       "cat": "PRIME PLUS",
       "price": "530.00",
-      "status": "2"
+      "status": "1"
     },
     "IMJW|33230|20260816|PRIME": {
       "venue": "Maison INOX: Jio World Plaza, BKC",
@@ -431,11 +431,179 @@
       "cat": "PRIME ROWS",
       "price": "600.00",
       "status": "3"
+    },
+    "FMMA|231509|20260815|PICTURE PERFECT": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "720.00",
+      "status": "0"
+    },
+    "FMMA|231509|20260815|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "670.00",
+      "status": "1"
+    },
+    "FMMA|231509|20260815|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
+      "price": "650.00",
+      "status": "2"
+    },
+    "FMMA|231509|20260815|CLASSIC ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
+      "price": "550.00",
+      "status": "3"
+    },
+    "INRC|172841|20260815|PICTURE PERFECT": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "05:00 PM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "780.00",
+      "status": "0"
+    },
+    "INRC|172841|20260815|PRIME PLUS ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "05:00 PM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "730.00",
+      "status": "1"
+    },
+    "INRC|172841|20260815|PRIME ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "05:00 PM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
+      "price": "710.00",
+      "status": "2"
+    },
+    "INRC|172841|20260815|CLASSIC ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "05:00 PM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
+      "price": "530.00",
+      "status": "3"
+    },
+    "MCIW|18439|20260815|LOUNGER": {
+      "venue": "Miraj Cinemas: IMAX, Wadala",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "LOUNGER",
+      "price": "900.00",
+      "status": "3"
+    },
+    "MCIW|18439|20260815|RECLINER IMAX": {
+      "venue": "Miraj Cinemas: IMAX, Wadala",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "RECLINER IMAX",
+      "price": "2200.00",
+      "status": "2"
+    },
+    "MCIW|18439|20260815|EXECUTIVE": {
+      "venue": "Miraj Cinemas: IMAX, Wadala",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "EXECUTIVE",
+      "price": "1500.00",
+      "status": "2"
+    },
+    "MCIW|18439|20260815|SOFA": {
+      "venue": "Miraj Cinemas: IMAX, Wadala",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "SOFA",
+      "price": "1800.00",
+      "status": "1"
+    },
+    "IMJW|33226|20260815|PICTURE PERFECT": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "900.00",
+      "status": "0"
+    },
+    "IMJW|33226|20260815|XTRA LEGROOM": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "XTRA LEGROOM",
+      "price": "800.00",
+      "status": "0"
+    },
+    "IMJW|33226|20260815|PRIME PLUS": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME PLUS",
+      "price": "750.00",
+      "status": "0"
+    },
+    "IMJW|33226|20260815|PRIME": {
+      "venue": "Maison INOX: Jio World Plaza, BKC",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME",
+      "price": "720.00",
+      "status": "3"
+    },
+    "EMNC|5530|20260815|PICTURE PERFECT": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PICTURE PERFECT",
+      "price": "850.00",
+      "status": "1"
+    },
+    "EMNC|5530|20260815|EXTRA LEGROOM ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "820.00",
+      "status": "1"
+    },
+    "EMNC|5530|20260815|PRIME ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME ROWS",
+      "price": "800.00",
+      "status": "2"
+    },
+    "EMNC|5530|20260815|PRIME PLUS ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "800.00",
+      "status": "1"
+    },
+    "EMNC|5530|20260815|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260815",
+      "cat": "CLASSIC ROWS",
+      "price": "600.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260815": "AVAILABLE",
-    "20260816": "BOOKABLE",
+    "20260815": "BOOKABLE",
+    "20260816": "AVAILABLE",
     "20260817": "NOT_OPEN",
     "20260818": "NOT_OPEN",
     "20260819": "NOT_OPEN",
