@@ -149,7 +149,7 @@
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "PRIME ROWS",
-      "price": "570.00",
+      "price": "610.00",
       "status": "3"
     },
     "FMMA|231515|20260816|CLASSIC ROWS": {
@@ -358,7 +358,7 @@
       "date": "20260816",
       "cat": "PICTURE PERFECT",
       "price": "650.00",
-      "status": "2"
+      "status": "1"
     },
     "EMNC|5534|20260816|EXTRA LEGROOM ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
@@ -416,14 +416,6 @@
       "price": "800.00",
       "status": "2"
     },
-    "EMNC|5536|20260816|PRIME ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260816",
-      "cat": "PRIME ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
     "EMNC|5536|20260816|CLASSIC ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "05:15 PM",
@@ -431,15 +423,23 @@
       "cat": "CLASSIC ROWS",
       "price": "600.00",
       "status": "3"
+    },
+    "EMNC|5536|20260816|PRIME ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
+      "price": "600.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260815": "BOOKABLE",
-    "20260816": "AVAILABLE",
+    "20260816": "BOOKABLE",
     "20260817": "AVAILABLE",
     "20260818": "AVAILABLE",
     "20260819": "AVAILABLE",
     "20260820": "NOT_OPEN",
-    "20260821": "NOT_OPEN"
+    "20260821": "NOT_OPEN",
+    "20260822": "NOT_OPEN"
   }
 }
