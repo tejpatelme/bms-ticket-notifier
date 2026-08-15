@@ -62,7 +62,7 @@
       "date": "20260816",
       "cat": "PICTURE PERFECT",
       "price": "980.00",
-      "status": "1"
+      "status": "0"
     },
     "IMOB|20203|20260816|PRIME PLUS": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
@@ -78,7 +78,7 @@
       "date": "20260816",
       "cat": "PRIME",
       "price": "750.00",
-      "status": "3"
+      "status": "2"
     },
     "IMOB|20203|20260816|LOUNGER": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
@@ -104,14 +104,6 @@
       "price": "520.00",
       "status": "0"
     },
-    "FMMA|231513|20260816|PRIME PLUS ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME PLUS ROWS",
-      "price": "470.00",
-      "status": "1"
-    },
     "FMMA|231513|20260816|PRIME ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "11:30 AM",
@@ -119,6 +111,14 @@
       "cat": "PRIME ROWS",
       "price": "470.00",
       "status": "2"
+    },
+    "FMMA|231513|20260816|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
+      "price": "470.00",
+      "status": "1"
     },
     "FMMA|231513|20260816|CLASSIC ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
@@ -286,7 +286,7 @@
       "date": "20260816",
       "cat": "SOFA",
       "price": "2000.00",
-      "status": "1"
+      "status": "0"
     },
     "IMJW|33230|20260816|PICTURE PERFECT": {
       "venue": "Maison INOX: Jio World Plaza, BKC",
@@ -376,19 +376,19 @@
       "price": "599.00",
       "status": "2"
     },
-    "EMNC|5534|20260816|CLASSIC ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "CLASSIC ROWS",
-      "price": "399.00",
-      "status": "3"
-    },
     "EMNC|5534|20260816|PRIME ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "PRIME ROWS",
+      "price": "499.00",
+      "status": "3"
+    },
+    "EMNC|5534|20260816|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "CLASSIC ROWS",
       "price": "399.00",
       "status": "3"
     },
