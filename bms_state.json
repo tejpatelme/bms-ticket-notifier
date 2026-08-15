@@ -14,7 +14,7 @@
       "date": "20260816",
       "cat": "PICTURE PERFECT",
       "price": "710.00",
-      "status": "1"
+      "status": "0"
     },
     "IMOB|20201|20260816|PRIME PLUS": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
@@ -104,14 +104,6 @@
       "price": "520.00",
       "status": "0"
     },
-    "FMMA|231513|20260816|PRIME ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME ROWS",
-      "price": "470.00",
-      "status": "2"
-    },
     "FMMA|231513|20260816|PRIME PLUS ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "11:30 AM",
@@ -119,6 +111,14 @@
       "cat": "PRIME PLUS ROWS",
       "price": "470.00",
       "status": "1"
+    },
+    "FMMA|231513|20260816|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
+      "price": "470.00",
+      "status": "2"
     },
     "FMMA|231513|20260816|CLASSIC ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
@@ -213,7 +213,7 @@
       "time": "05:00 PM",
       "date": "20260816",
       "cat": "PRIME ROWS",
-      "price": "550.00",
+      "price": "630.00",
       "status": "3"
     },
     "INRC|172847|20260816|CLASSIC ROWS": {
