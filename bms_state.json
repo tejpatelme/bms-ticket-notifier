@@ -54,14 +54,6 @@
       "date": "20260815",
       "cat": "PICTURE PERFECT",
       "price": "520.00",
-      "status": "0"
-    },
-    "FMMA|231507|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "470.00",
       "status": "1"
     },
     "FMMA|231507|20260815|PRIME ROWS": {
@@ -71,6 +63,14 @@
       "cat": "PRIME ROWS",
       "price": "470.00",
       "status": "2"
+    },
+    "FMMA|231507|20260815|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "470.00",
+      "status": "1"
     },
     "FMMA|231507|20260815|CLASSIC ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
@@ -101,7 +101,7 @@
       "time": "05:15 PM",
       "date": "20260815",
       "cat": "PRIME ROWS",
-      "price": "570.00",
+      "price": "610.00",
       "status": "3"
     },
     "FMMA|231509|20260815|CLASSIC ROWS": {
@@ -166,7 +166,7 @@
       "date": "20260815",
       "cat": "PRIME ROWS",
       "price": "630.00",
-      "status": "3"
+      "status": "2"
     },
     "INRC|172841|20260815|CLASSIC ROWS": {
       "venue": "INOX: R-City, Ghatkopar",
