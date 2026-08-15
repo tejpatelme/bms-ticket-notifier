@@ -54,6 +54,14 @@
       "date": "20260815",
       "cat": "PICTURE PERFECT",
       "price": "520.00",
+      "status": "0"
+    },
+    "FMMA|231507|20260815|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260815",
+      "cat": "PRIME PLUS ROWS",
+      "price": "470.00",
       "status": "1"
     },
     "FMMA|231507|20260815|PRIME ROWS": {
@@ -63,14 +71,6 @@
       "cat": "PRIME ROWS",
       "price": "470.00",
       "status": "2"
-    },
-    "FMMA|231507|20260815|PRIME PLUS ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260815",
-      "cat": "PRIME PLUS ROWS",
-      "price": "470.00",
-      "status": "1"
     },
     "FMMA|231507|20260815|CLASSIC ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
@@ -246,7 +246,7 @@
       "date": "20260815",
       "cat": "PICTURE PERFECT",
       "price": "680.00",
-      "status": "1"
+      "status": "0"
     },
     "IMJW|33224|20260815|XTRA LEGROOM": {
       "venue": "Maison INOX: Jio World Plaza, BKC",
