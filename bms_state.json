@@ -104,14 +104,6 @@
       "price": "520.00",
       "status": "0"
     },
-    "FMMA|231513|20260816|PRIME ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME ROWS",
-      "price": "470.00",
-      "status": "2"
-    },
     "FMMA|231513|20260816|PRIME PLUS ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "11:30 AM",
@@ -119,6 +111,14 @@
       "cat": "PRIME PLUS ROWS",
       "price": "470.00",
       "status": "1"
+    },
+    "FMMA|231513|20260816|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
+      "price": "470.00",
+      "status": "2"
     },
     "FMMA|231513|20260816|CLASSIC ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
@@ -416,19 +416,19 @@
       "price": "800.00",
       "status": "2"
     },
-    "EMNC|5536|20260816|CLASSIC ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260816",
-      "cat": "CLASSIC ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
     "EMNC|5536|20260816|PRIME ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "PRIME ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "EMNC|5536|20260816|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "CLASSIC ROWS",
       "price": "600.00",
       "status": "3"
     }
