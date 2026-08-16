@@ -1,60 +1,12 @@
 {
   "shows": {
-    "IMOB|20201|20260816|RECLINER": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260816",
-      "cat": "RECLINER",
-      "price": "1080.00",
-      "status": "1"
-    },
-    "IMOB|20201|20260816|PICTURE PERFECT": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260816",
-      "cat": "PICTURE PERFECT",
-      "price": "710.00",
-      "status": "1"
-    },
-    "IMOB|20201|20260816|PRIME PLUS": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260816",
-      "cat": "PRIME PLUS",
-      "price": "540.00",
-      "status": "1"
-    },
-    "IMOB|20201|20260816|PRIME": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260816",
-      "cat": "PRIME",
-      "price": "520.00",
-      "status": "2"
-    },
-    "IMOB|20201|20260816|LOUNGER": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260816",
-      "cat": "LOUNGER",
-      "price": "440.00",
-      "status": "3"
-    },
-    "IMOB|20201|20260816|CLASSIC": {
-      "venue": "INOX Megaplex: Sky City Mall, Borivali",
-      "time": "08:45 AM",
-      "date": "20260816",
-      "cat": "CLASSIC",
-      "price": "400.00",
-      "status": "3"
-    },
     "IMOB|20203|20260816|RECLINER": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
       "time": "02:30 PM",
       "date": "20260816",
       "cat": "RECLINER",
       "price": "1700.00",
-      "status": "0"
+      "status": "1"
     },
     "IMOB|20203|20260816|PICTURE PERFECT": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
@@ -104,14 +56,6 @@
       "price": "520.00",
       "status": "0"
     },
-    "FMMA|231513|20260816|PRIME PLUS ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME PLUS ROWS",
-      "price": "470.00",
-      "status": "1"
-    },
     "FMMA|231513|20260816|PRIME ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "11:30 AM",
@@ -119,6 +63,14 @@
       "cat": "PRIME ROWS",
       "price": "470.00",
       "status": "2"
+    },
+    "FMMA|231513|20260816|PRIME PLUS ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME PLUS ROWS",
+      "price": "470.00",
+      "status": "1"
     },
     "FMMA|231513|20260816|CLASSIC ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
@@ -416,19 +368,19 @@
       "price": "800.00",
       "status": "2"
     },
-    "EMNC|5536|20260816|PRIME ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260816",
-      "cat": "PRIME ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
     "EMNC|5536|20260816|CLASSIC ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "CLASSIC ROWS",
+      "price": "600.00",
+      "status": "3"
+    },
+    "EMNC|5536|20260816|PRIME ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
       "price": "600.00",
       "status": "3"
     }
