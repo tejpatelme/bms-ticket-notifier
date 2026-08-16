@@ -56,19 +56,19 @@
       "price": "520.00",
       "status": "0"
     },
-    "FMMA|231513|20260816|PRIME ROWS": {
-      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
-      "time": "11:30 AM",
-      "date": "20260816",
-      "cat": "PRIME ROWS",
-      "price": "470.00",
-      "status": "2"
-    },
     "FMMA|231513|20260816|PRIME PLUS ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "11:30 AM",
       "date": "20260816",
       "cat": "PRIME PLUS ROWS",
+      "price": "470.00",
+      "status": "1"
+    },
+    "FMMA|231513|20260816|PRIME ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "11:30 AM",
+      "date": "20260816",
+      "cat": "PRIME ROWS",
       "price": "470.00",
       "status": "1"
     },
@@ -206,7 +206,7 @@
       "date": "20260816",
       "cat": "SOFA",
       "price": "2100.00",
-      "status": "0"
+      "status": "1"
     },
     "MCIW|18456|20260816|LOUNGER": {
       "venue": "Miraj Cinemas: IMAX, Wadala",
@@ -238,7 +238,7 @@
       "date": "20260816",
       "cat": "SOFA",
       "price": "2000.00",
-      "status": "0"
+      "status": "1"
     },
     "IMJW|33230|20260816|PICTURE PERFECT": {
       "venue": "Maison INOX: Jio World Plaza, BKC",
@@ -368,19 +368,19 @@
       "price": "800.00",
       "status": "1"
     },
-    "EMNC|5536|20260816|CLASSIC ROWS": {
-      "venue": "EROS INOX IMAX Cinema: Churchgate",
-      "time": "05:15 PM",
-      "date": "20260816",
-      "cat": "CLASSIC ROWS",
-      "price": "600.00",
-      "status": "3"
-    },
     "EMNC|5536|20260816|PRIME ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
       "time": "05:15 PM",
       "date": "20260816",
       "cat": "PRIME ROWS",
+      "price": "700.00",
+      "status": "3"
+    },
+    "EMNC|5536|20260816|CLASSIC ROWS": {
+      "venue": "EROS INOX IMAX Cinema: Churchgate",
+      "time": "05:15 PM",
+      "date": "20260816",
+      "cat": "CLASSIC ROWS",
       "price": "600.00",
       "status": "3"
     }
