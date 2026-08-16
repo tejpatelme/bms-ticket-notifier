@@ -134,7 +134,7 @@
       "date": "20260816",
       "cat": "PICTURE PERFECT",
       "price": "720.00",
-      "status": "0"
+      "status": "1"
     },
     "FMMA|231515|20260816|PRIME PLUS ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
@@ -358,7 +358,7 @@
       "date": "20260816",
       "cat": "PICTURE PERFECT",
       "price": "650.00",
-      "status": "1"
+      "status": "0"
     },
     "EMNC|5534|20260816|EXTRA LEGROOM ROWS": {
       "venue": "EROS INOX IMAX Cinema: Churchgate",
