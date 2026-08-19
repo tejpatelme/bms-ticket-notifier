@@ -1,5 +1,37 @@
 {
   "shows": {
+    "INRC|173190|20260822|ROYAL ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "10:10 AM",
+      "date": "20260822",
+      "cat": "ROYAL ROWS",
+      "price": "480.00",
+      "status": "3"
+    },
+    "INRC|173190|20260822|EXECUTIVE ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "10:10 AM",
+      "date": "20260822",
+      "cat": "EXECUTIVE ROWS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "IMCM|142931|20260822|ROYAL ROWS": {
+      "venue": "Metro INOX Cinemas: Marine Lines",
+      "time": "11:20 AM",
+      "date": "20260822",
+      "cat": "ROYAL ROWS",
+      "price": "420.00",
+      "status": "3"
+    },
+    "IMCM|142931|20260822|EXECUTIVE ROWS": {
+      "venue": "Metro INOX Cinemas: Marine Lines",
+      "time": "11:20 AM",
+      "date": "20260822",
+      "cat": "EXECUTIVE ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
     "INRC|173196|20260823|ROYAL ROWS": {
       "venue": "INOX: R-City, Ghatkopar",
       "time": "10:10 AM",
