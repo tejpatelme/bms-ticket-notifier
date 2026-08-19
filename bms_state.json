@@ -1,5 +1,21 @@
 {
   "shows": {
+    "FMMA|231949|20260822|ROYAL ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "03:45 PM",
+      "date": "20260822",
+      "cat": "ROYAL ROWS",
+      "price": "820.00",
+      "status": "3"
+    },
+    "FMMA|231949|20260822|EXECUTIVE ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "03:45 PM",
+      "date": "20260822",
+      "cat": "EXECUTIVE ROWS",
+      "price": "750.00",
+      "status": "3"
+    },
     "INRC|173190|20260822|ROYAL ROWS": {
       "venue": "INOX: R-City, Ghatkopar",
       "time": "10:10 AM",
@@ -30,6 +46,22 @@
       "date": "20260822",
       "cat": "EXECUTIVE ROWS",
       "price": "370.00",
+      "status": "3"
+    },
+    "FMMA|231955|20260823|ROYAL ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "03:45 PM",
+      "date": "20260823",
+      "cat": "ROYAL ROWS",
+      "price": "820.00",
+      "status": "3"
+    },
+    "FMMA|231955|20260823|EXECUTIVE ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "03:45 PM",
+      "date": "20260823",
+      "cat": "EXECUTIVE ROWS",
+      "price": "750.00",
       "status": "3"
     },
     "INRC|173196|20260823|ROYAL ROWS": {
