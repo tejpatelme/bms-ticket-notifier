@@ -1,5 +1,21 @@
 {
   "shows": {
+    "IMOB|20589|20260822|RECLINER PRIME": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "01:55 PM",
+      "date": "20260822",
+      "cat": "RECLINER PRIME",
+      "price": "740.00",
+      "status": "3"
+    },
+    "IMOB|20589|20260822|RECLINER": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "01:55 PM",
+      "date": "20260822",
+      "cat": "RECLINER",
+      "price": "650.00",
+      "status": "3"
+    },
     "FMMA|231949|20260822|ROYAL ROWS": {
       "venue": "INOX: Megaplex, Inorbit Mall, Malad",
       "time": "03:45 PM",
