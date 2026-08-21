@@ -1,5 +1,85 @@
 {
   "shows": {
+    "IMOB|20589|20260822|RECLINER PRIME": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "01:55 PM",
+      "date": "20260822",
+      "cat": "RECLINER PRIME",
+      "price": "740.00",
+      "status": "3"
+    },
+    "IMOB|20589|20260822|RECLINER": {
+      "venue": "INOX Megaplex: Sky City Mall, Borivali",
+      "time": "01:55 PM",
+      "date": "20260822",
+      "cat": "RECLINER",
+      "price": "650.00",
+      "status": "3"
+    },
+    "FMMA|231949|20260822|ROYAL ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "03:45 PM",
+      "date": "20260822",
+      "cat": "ROYAL ROWS",
+      "price": "920.00",
+      "status": "0"
+    },
+    "FMMA|231949|20260822|EXECUTIVE ROWS": {
+      "venue": "INOX: Megaplex, Inorbit Mall, Malad",
+      "time": "03:45 PM",
+      "date": "20260822",
+      "cat": "EXECUTIVE ROWS",
+      "price": "750.00",
+      "status": "3"
+    },
+    "INRC|173190|20260822|ROYAL ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "10:10 AM",
+      "date": "20260822",
+      "cat": "ROYAL ROWS",
+      "price": "480.00",
+      "status": "3"
+    },
+    "INRC|173190|20260822|EXECUTIVE ROWS": {
+      "venue": "INOX: R-City, Ghatkopar",
+      "time": "10:10 AM",
+      "date": "20260822",
+      "cat": "EXECUTIVE ROWS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "IMCM|142931|20260822|ROYAL ROWS": {
+      "venue": "Metro INOX Cinemas: Marine Lines",
+      "time": "11:20 AM",
+      "date": "20260822",
+      "cat": "ROYAL ROWS",
+      "price": "470.00",
+      "status": "2"
+    },
+    "IMCM|142931|20260822|EXECUTIVE ROWS": {
+      "venue": "Metro INOX Cinemas: Marine Lines",
+      "time": "11:20 AM",
+      "date": "20260822",
+      "cat": "EXECUTIVE ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "WAML|79093|20260822|ROYAL ROWS": {
+      "venue": "INOX: Insignia at Atria Mall, Worli",
+      "time": "12:05 PM",
+      "date": "20260822",
+      "cat": "ROYAL ROWS",
+      "price": "950.00",
+      "status": "3"
+    },
+    "WAML|79093|20260822|EXECUTIVE ROWS": {
+      "venue": "INOX: Insignia at Atria Mall, Worli",
+      "time": "12:05 PM",
+      "date": "20260822",
+      "cat": "EXECUTIVE ROWS",
+      "price": "930.00",
+      "status": "3"
+    },
     "IMOB|20596|20260823|RECLINER PRIME": {
       "venue": "INOX Megaplex: Sky City Mall, Borivali",
       "time": "01:55 PM",
