@@ -85,7 +85,7 @@
       "time": "12:05 PM",
       "date": "20260823",
       "cat": "ROYAL ROWS",
-      "price": "1000.00",
+      "price": "1050.00",
       "status": "2"
     },
     "WAML|79096|20260823|EXECUTIVE ROWS": {
@@ -94,7 +94,7 @@
       "date": "20260823",
       "cat": "EXECUTIVE ROWS",
       "price": "980.00",
-      "status": "2"
+      "status": "3"
     }
   },
   "dates": {
